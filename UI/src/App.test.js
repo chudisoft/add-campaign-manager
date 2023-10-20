@@ -36,7 +36,7 @@ describe('Test missions component', () => {
       </MemoryRouter>,
     );
 
-    const navbarElement = screen.getByText(/Music Collections/i);
+    const navbarElement = screen.getByText(/Campaign Managers/i);
     expect(navbarElement).toBeInTheDocument();
   });
 });

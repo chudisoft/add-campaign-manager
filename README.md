@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <h3><b>The Music Collection-webapp Project</b></h3>
+  <h3><b>Campaign Manager Project</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -8,7 +8,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Music-Collection\] ](#--Music-Collection-)
+- [📖 \[Campaign-Manager\] ](#--Campaign-Manager-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,13 +31,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Music-Collection] <a name="about-project"></a>
+# 📖 [Campaign-Manager] <a name="about-project"></a>
 
-> This project was created as part of Microverse React redux capstone project.
-It gives the student an opportunity to showcase his talent with HTML, CSS, React, and Redux.
-It also allows the student to showcase what they can do to the future employee.
+> This project is a personal React redux project.
+It gave us an opportunity to showcase his talent with HTML, CSS, React, Redux, and Python Flask.
 
-**[Music-Collection]** is a project that allows a user to select a category of music and view the list of all songs in that category grouped by artists.
+**[Campaign-Manager]** is a web project used to create, monitor and track add campaign comprising of UI (React/Redux) and sever (Python Flask). .
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,6 +59,7 @@ It also allows the student to showcase what they can do to the future employee.
     <li><a href="https://js.org/">Javascript</a></li>
     <li><a href="https://js.org/">React</a></li>
     <li><a href="https://js.org/">Redux</a></li>
+    <li><a href="https://js.org/">Flask</a></li>
     <li><a href="https://Bootstrap.org/">Bootstrap</a></li>
   </ul>
 </details>
@@ -120,8 +120,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:chudisoft/music-collection.git
-  cd music-collection
+  git clone git@github.com:chudisoft/campaign-manager.git
+  cd campaign-manager
   code .
 ```
 -

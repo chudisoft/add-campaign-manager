@@ -12,7 +12,7 @@ function Categories() {
   const [ showSearch, setShowSearch ] = useState(true);
 
   useEffect(() => {
-    document.title = "Music Collections - Categories";
+    document.title = "Campaign Managers - Categories";
   }, []);
 
   useEffect(() => {
@@ -32,7 +32,7 @@ function Categories() {
   return (
     <div className=''>
       <div className='categories-header'>
-        <i>Select music category to view its music collections</i>
+        <i>Select music category to view its Campaign Managers</i>
         <span className='float-end pointer text-light'>
           <i className='fas fa-cogs'
             title='Toggle Search'

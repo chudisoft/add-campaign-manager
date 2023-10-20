@@ -39,7 +39,7 @@ const Navbar = () => {
       <div className="navbar__logo">
         {/* <img src={logo} alt="planet" /> */}
         <i className=' fa fa-4x text-primary fa-headphones'></i>
-        <h1 className="text-light">Music Collections</h1>
+        <h1 className="text-light">Campaign Managers</h1>
       </div>
       <nav className="navbar__links" ref={linkRef}>
         <ul>

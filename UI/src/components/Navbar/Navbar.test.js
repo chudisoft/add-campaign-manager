@@ -11,6 +11,6 @@ describe("Navbar component", () => {
       </MemoryRouter>
     );
 
-    expect(screen.getByText(/Music Collections/)).toBeInTheDocument();
+    expect(screen.getByText(/Campaign Managers/)).toBeInTheDocument();
   });
 });
